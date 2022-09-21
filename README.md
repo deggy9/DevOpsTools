@@ -12,3 +12,11 @@
 ## Devbox
 [Devbox](https://github.com/jetpack-io/devbox) is a command-line tool that lets you easily create isolated shells and containers. You start by defining the list of packages required by your development environment, and devbox uses that definition to create an isolated environment just for your application.
 
+## tfadd
+[tfadd](https://github.com/magodo/tfadd) Generate valid Terraform configuration from state.
+
+## Terralist
+[Terralist](https://github.com/valentindeaconu/terralist) is a private Terraform registry for providers and modules following the published HashiCorp protocols.
+
+## Restic
+[restic](https://github.com/restic/restic) is a backup program that is fast, efficient and secure. It supports the three major operating systems (Linux, macOS, Windows) and a few smaller ones (FreeBSD, OpenBSD).
