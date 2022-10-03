@@ -20,3 +20,6 @@
 
 ## Restic
 [restic](https://github.com/restic/restic) is a backup program that is fast, efficient and secure. It supports the three major operating systems (Linux, macOS, Windows) and a few smaller ones (FreeBSD, OpenBSD).
+
+## WAFARAY
+[WAFARAY](https://github.com/alt3kx/wafaray) is a LAB deployment based on Debian 11.3.0 (stable) x64 made and cooked between two main ingredients WAF + YARA to detect malicious files (e.g. webshells, virus, malware, binaries) typically through web functions (upload files).
